@@ -1,0 +1,2 @@
+[1118/232903.345:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access toDate an object, but has not been granted those access rights. (0xc0000022)
+[1118/232903.349:ERROR:exception_snapshot_win.cc(98)] thread ID 9608 not found in process
